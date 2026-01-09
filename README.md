@@ -19,5 +19,5 @@ python main.py
 Use the following command lines to start training and testing on the datasets:
 ### Amazon-Books
 ```bash
-python main.py --data amazon-books
+python main.py --dataset amazon-books
 ```
