@@ -13,9 +13,8 @@ Pytorch:
 
 python main.py
 
+Training and Testing
 
-
-3.Training and Testing
 Use the following command lines to start training and testing on the datasets:
 ### Amazon-Books
 ```bash
